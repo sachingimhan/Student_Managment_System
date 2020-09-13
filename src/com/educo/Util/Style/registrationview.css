@@ -1,0 +1,16 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+
+.save-button{
+    -fx-background-color: #007bff;
+    -fx-fill:#fff;
+}
+.update-button{
+    -fx-background-color: #ffc107;
+    -fx-fill:#000;
+}
+.delete-button{
+    -fx-background-color: #dc3545;
+}
